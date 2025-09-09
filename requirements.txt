@@ -1,0 +1,4 @@
+aiohttp
+telethon
+beautifulsoup4
+fake-ucryptography
