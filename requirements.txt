@@ -1,4 +1,5 @@
 aiohttp
 telethon
 beautifulsoup4
-fake-ucryptography
+cryptography
+fake-useragent
